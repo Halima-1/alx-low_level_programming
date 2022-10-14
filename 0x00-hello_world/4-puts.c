@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main- Serves as the entry point for the program 
- * Return: By fault returns zero if no errors otherwise returns non-zero value.
+ * *main- Serves as the entry point for the program 
+ * *Return: By fault returns zero if no errors otherwise returns non-zero value.
  **/
 int main(void)
 {
