@@ -3,7 +3,7 @@
 /**
  * _isuper - checks if parameter is an upppercase character.
  * @c: input character.
- * Return: 1 if it is an uppercase character, 0 if not.
+ * Return: 1 if is an uppercase character, 0 in other case.
  */
 int _isupper(int c)
 {
@@ -16,4 +16,3 @@ int _isupper(int c)
 		return (0);
 	}
 }
-
